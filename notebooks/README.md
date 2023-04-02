@@ -1,5 +1,7 @@
 
-
+```bash
+$ conda activate jupyter
+```
 
 
 
